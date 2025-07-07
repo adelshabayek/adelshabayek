@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋! My name is Adel Shabayek </h1>
-<h3 align="center">Front-End Developer · UI/UX Engineer · Code + Design Specialist</h3>
+<h3 align="center">Front-End Developer · UI/UX Enthusiast · Web Innovator</h3>
 
 <p align="center">
 Crafting seamless, elegant, and high-performance web interfaces using the power of Vue, Sass, and TailwindCSS.<br>
