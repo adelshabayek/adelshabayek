@@ -57,11 +57,11 @@ Blending development precision with intuitive visual storytelling for modern dig
 
 ---
 
-## 🐍 Contribution Graph Snake
+## 🐍 Contribution Snake
 
 <p align="center">
- 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/adelshabayek/adelshabayek/raw/output/snake.svg" alt="GitHub Snake" />
+
 </p>
 
 ---
