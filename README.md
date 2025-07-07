@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Front-End Animation">
 </div>
 
-<h1 align="center">Adel Shabayek</h1>
+<h1 align="center">Hi 👋! My name is Adel Shabayek </h1>
 <h3 align="center">Front-End Developer · UI/UX Engineer · Code + Design Specialist</h3>
 
 <p align="center">
