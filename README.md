@@ -69,10 +69,10 @@ Blending development precision with intuitive visual storytelling for modern dig
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:pildexyt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/adel-shabayek/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/adelshabayek">
@@ -80,5 +80,4 @@ Blending development precision with intuitive visual storytelling for modern dig
   </a>
 </p>
 
-<br>
-<p align="center"><i>"Interfaces should not just work — they should feel good to use."</i></p>
+
