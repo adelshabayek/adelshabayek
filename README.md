@@ -3,11 +3,12 @@
 </div>
 
 <h1 align="center">Hi 👋! My name is Adel Shabayek </h1>
-<h3 align="center">Front-End Developer · UI/UX Enthusiast · Web Innovator</h3>
+<h3 align="center">Front-End Developer | Angular CLI | Building Responsive & Scalable Web UI</h3>
 
 <p align="center">
-Crafting seamless, elegant, and high-performance web interfaces using the power of Vue, Sass, and TailwindCSS.<br>
-Blending development precision with intuitive visual storytelling for modern digital products.
+Front-End Developer with professional experience in Angular, Angular Material, PrimeNG,
+Bootstrap, and TypeScript. Skilled in building dynamic dashboards, responsive UIs, and CRUD
+applications. Strong collaborator with a focus on performance, accessibility, and clean code.
 </p>
 
 ---
@@ -15,9 +16,8 @@ Blending development precision with intuitive visual storytelling for modern dig
 ## ⚡ About Me
 
 * 🌍 Based in **Arish, Egypt**
-* 🧠 Front-End Developer with strong focus on **Vue.js**, **TailwindCSS**, **SASS**, and **Bootstrap**
+* 🧠 Front-End Developer with strong focus on **Angular CLI**, **RXJS**, **Angular Material**, and **PrimeNG**
 * 🎨 Obsessed with **UI architecture**, **component systems**, and **pixel-perfect designs**
-* 🧩 Exploring **Next.js**, **Framer Motion**, and **web accessibility** (A11y)
 * 🚀 Driven by performance, responsiveness, and excellent UX
 
 ---
@@ -27,7 +27,7 @@ Blending development precision with intuitive visual storytelling for modern dig
 ### 🌐 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,tailwind" height="35"/>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,javascript,angular,rxJS,primeng" height="35"/>
 </p>
 
 ### 🔧 Tools & Platforms
